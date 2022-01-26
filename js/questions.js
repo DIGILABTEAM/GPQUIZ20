@@ -3,20 +3,11 @@ var data =
 	[
 		[
 			{
-				question: "Which of the following can cause dry mouth as a side effect?",
-				option1: "Guaifenesin",
-				option2: "Dextromethorphan",
-				option3: "Diphenhydramine",
-				option4: "Simple linctus",
-				answer: 3
-			},
-			{
-				question: "Contractions of the respiratory muscles result in a(n):",
-				option1: "Decrease in the volume of the thorax",
-				option2: "Increase in the volume of the thorax",
-				option3: "Increase in the amount of blood flowing through the lungs",
-				option4: "Decrease in the amount of blood flowing through the lungs",
-				answer: 2
+				question: "when should be Systemic antitussives recommended",
+				option1: "For a productive cough that interferes with sleep",
+				option2: "Any type of cough",
+				option3: "Usually not recommended",
+				answer: 1
 			},
 			{
 				question: "The type of emphysema associated with smoking is",
@@ -27,19 +18,26 @@ var data =
 				answer: 2
 			},
 			{
-				question: "With regards to obstructive sleep apnoea (OSA), which of the following statements is INCORRECT?",
-				option1: "Hhypoxaemia is the main stimulus to arousal",
-				option2: "Main method of treating this syndrome is with Continuous Positive Airway Pressure (CPAP)",
-				option3: "This syndrome occurs in up to 5% of adults",
-				option4: "This syndrome rarely has an obstructive component",
-				answer: 4
+				question: "Which of the following should not be used to treat a productive cough?",
+				option1: "Guaifenesin",
+				option2: "Dextromethorphan",
+				option3: "Diphenhydramine",
+				option4: "Simple linctus",	
+				answer: 2
 			},
 			{
-				question: "Which bronchial secretion enhancer is approved by U.S FDA?",
+				question: "Which drug depolymerises mucopolysaccharides of mucus?",
 				option1: "Guaiphenesin",
-				option2: "Potassium iodide",
-				option3: "Ammonium chloride",
-				option4: "Potassium citrate",
+				option2: "Nascopine",
+				option3: "Bromohexine",
+				option4: "Diphenhydramine",
+				answer: 3
+			},
+			{
+				question: "when should be Systemic antitussives recommended",
+				option1: "For a productive cough that interferes with sleep",
+				option2: "Any type of cough",
+				option3: "Usually not recommended",
 				answer: 1
 			}
 		]
